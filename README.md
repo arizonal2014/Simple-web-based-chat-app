@@ -1,9 +1,16 @@
 # Simple-web-based-chat-app
-This simple web based application will allow multiple users to concurrently chat with each other from their browsers.
+This simple web based chat application will allow multiple users to concurrently chat with each other from their browsers.
 
-create a table in MySQL using the following SQL CREATE queries to create a database called chat and a table in that database called chatlog:
-Click here to view code image
+# Using jQuery and AJAX with PHP
+This application will allow multiple users chat with each other from their browsers, and receive these messages without having to refresh the browser window at all.
 
+http://recordit.co/vw50nfC6Xs
+
+
+#  Create a table in MySQL 
+using the following SQL CREATE queries to create a database called chat and a table in that database called chatlog:
+
+<pre>
 CREATE DATABASE chat;
 USE chat;
 CREATE TABLE chatlog (
@@ -12,3 +19,4 @@ CREATE TABLE chatlog (
      sent_by VARCHAR(50),
      date_created INT(11)
 );
+</pre>
