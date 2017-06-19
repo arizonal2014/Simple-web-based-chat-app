@@ -4,7 +4,7 @@ This simple web based chat application will allow multiple users to concurrently
 # Using jQuery and AJAX with PHP
 This application will allow multiple users chat with each other from their browsers, and receive these messages without having to refresh the browser window at all.
 
-<img src="http://recordit.co/vw50nfC6Xs">
+<img src="https://github.com/arizonal2014/Simple-web-based-chat-app/blob/master/vw50nfC6Xs.gif">
 
 
 #  Create a table in MySQL 
